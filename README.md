@@ -62,16 +62,11 @@ Here’s the specific cleaning tasks that were performed:
 
 After completing the above steps I created graphs for and generated observations from the graphs as insights.
 
-1\.  
-![][image2]
-
-2.![][image3]
-
-3\.  
-![][image4]
-
-4\.  
-![][image5]
+![Top Areas Rating](top_areas_rating.png)
+![Online Order Rating](online_order_rating.png)
+![Top 10 Cuisines](top_10_cuisines.png)
+![Average Rating by Cuisine](avg_rating_of_cuisines.png)
+![Cost vs Rating](cost_vs_rating_for_2_people.png)
 
 	
 
