@@ -25,7 +25,7 @@ The sections below will explain additional details on the technologies and files
 * [Key Findings](#key-findings)  
 * [Limitations](#limitations)
 
-## Problem Statement  {#problem-statement}
+## Problem Statement  
 
 Using the dataset I will showcase how null data points are removed, important insights about the food ordered from restaurants and how it affects the diners expenditure and experience.
 
