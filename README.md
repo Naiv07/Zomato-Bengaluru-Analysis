@@ -29,7 +29,7 @@ The sections below will explain additional details on the technologies and files
 
 Using the dataset I will showcase how null data points are removed, important insights about the food ordered from restaurants and how it affects the diners expenditure and experience.
 
-## Dataset Used {#dataset-used}
+## Dataset Used 
 
 This project uses the kaggle dataset for online food orders by Zomato which includes fields capturing name and types of restaurants, various cuisines types, locations of orders, ratings and net amount of expenditure for 2 people.
 
@@ -38,7 +38,7 @@ More info about the dataset can be found in the following links:
 * Website:https://www.kaggle.com/code/sanchayr/zomato-data-analysis
 
 
-## Tools Used {#tools-used}
+## Tools Used 
 
 The following technologies are used to build this project:
 
@@ -46,7 +46,7 @@ The following technologies are used to build this project:
 * Extraction: Kaggle, Microsoft Excel  
 * Notations: Notepad
 
-## Data Cleaning  {#data-cleaning}
+## Data Cleaning 
 
 In this step, I loaded the CSV file into VS Code and carried out cleaning activities prior to organizing them into dimension tables.
 
@@ -58,7 +58,7 @@ Here’s the specific cleaning tasks that were performed:
 
 ![][image1]
 
-## Key Findings {#key-findings}
+## Key Findings 
 
 After completing the above steps I created graphs for and generated observations from the graphs as insights.
 
@@ -92,7 +92,7 @@ After completing the above steps I created graphs for and generated observations
    ![][image10]  
    
 
-## Limitations {#limitations}
+## Limitations
 
 **Dataset limitations:**
 
