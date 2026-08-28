@@ -62,34 +62,30 @@ Here’s the specific cleaning tasks that were performed:
 
 After completing the above steps I created graphs for and generated observations from the graphs as insights.
 
-![Top Areas Rating](top_areas_rating.png)
-![Online Order Rating](online_order_rating.png)
-![Top 10 Cuisines](top_10_cuisines.png)
-![Average Rating by Cuisine](avg_rating_of_cuisines.png)
-![Cost vs Rating](cost_vs_rating_for_2_people.png)
-
-	
-
 1.  **Top 10 areas in Bengaluru by average restaurant rating**	  
     The top areas with the highest ratings in Bengaluru are Brigade Road, Lavelle Road, Malleshwaram, Church Street,      Indiranagar, Byresandra, Tavarekere, Madiwala, Banashankari, Koramangala 6th Block, MG Road, Koramangala 7th Block with average rating exceeding above 3.5. However, the rating gap between the top and the bottom area is only 0.15 points(3.68 vs. 3.53) suggesting location alone is not a strong driver of restaurant quality in Bengaluru.  
-   ![][image6]  
+    ![Top Areas Rating](top_areas_rating.png)
      
 2. **Top 10 Cuisines ordered in Bengaluru**  
     The top cuisines order by the customers in Bengaluru are North Indian with more than 3000, Chinese around 2500, South Indian close to 1500 , Fast Food with 1000, Biryani close to 1000, Continental above 600, Desserts, Beverages and Cafe with over 500 and Street Food with close to 400 restaurants. Bengaluru has a high rate of order for North Indian and Chinese cuisine. Despite the dominance of North Indian restaurants having 8x more outlets than Street Food, it doesn't reflect better quality as the average rating is marginally close, concluded from ratings analysis.  
-   ![][image7]  
+
+	![Online Order Rating](online_order_rating.png)
      
 3. **Average Rating: Online Order vs No Online Order**  
     Restaurants offering online ordering services average 3.5 vs 3.4 for those without- a consistent but small difference correlating to the fact of better-established restaurants rather than food quality itself.  
-   ![][image8]  
+  ![Top 10 Cuisines](top_10_cuisines.png)  
      
 4. **Average cost vs rating for Bengaluru restaurants**  
    The graphical data shows the average cost for 2 people in Bengaluru restaurants. The data shows that most of the customers who have spent less than Rs.1000 have rated the restaurants 3.5 and 4.0. This means that people don't need to spend a huge amount of money for visiting good-decent restaurants in Bengaluru, also it's not necessary to have a better experience by spending more money which can be afforded at half the price.  
-   Therefore, no correlation was found between price and rating as customers rated restaurants under Rs.1000 with 4.5+ rating comparable to restaurants with Rs.3000-6000, indicating Bengaluru diners prioritize value and food quality over price.  
-   ![][image9]  
+   Therefore, no correlation was found between price and rating as customers rated restaurants under Rs.1000 with 4.5+ rating comparable to restaurants with Rs.3000-6000, indicating Bengaluru diners prioritize value and food quality over price.
+   
+   ![Average Rating by Cuisine](avg_rating_of_cuisines.png)  
      
 5. **Average rating of top cuisines ordered in Bengaluru**  
    This data points out a contradiction between the top cuisines ordered and the most preferred cuisines in Bengaluru. Continental being the highest with an average rating of more than 3.5 \- 4.0, followed by Cafe with 3.5 and above, Desserts with slightly more than 3.5, Street Food, North Indian and Chinese cuisine with an average of 3.5, while Fast Food and Biryani having less than 3.5. This reveals a clear inverse relationship between cuisine popularity and quality rating of Bengaluru.  
-   ![][image10]  
+
+	![Cost vs Rating](cost_vs_rating_for_2_people.png)
+  
    
 
 ## Limitations
