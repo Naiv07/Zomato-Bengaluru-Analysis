@@ -69,11 +69,11 @@ After completing the above steps I created graphs for and generated observations
 2. **Top 10 Cuisines ordered in Bengaluru**  
     The top cuisines order by the customers in Bengaluru are North Indian with more than 3000, Chinese around 2500, South Indian close to 1500 , Fast Food with 1000, Biryani close to 1000, Continental above 600, Desserts, Beverages and Cafe with over 500 and Street Food with close to 400 restaurants. Bengaluru has a high rate of order for North Indian and Chinese cuisine. Despite the dominance of North Indian restaurants having 8x more outlets than Street Food, it doesn't reflect better quality as the average rating is marginally close, concluded from ratings analysis.  
 
-	![Online Order Rating](online_order_rating.png)
-     
+	![Top 10 Cuisines](top_10_cuisines.png) 
+	     
 3. **Average Rating: Online Order vs No Online Order**  
     Restaurants offering online ordering services average 3.5 vs 3.4 for those without- a consistent but small difference correlating to the fact of better-established restaurants rather than food quality itself.  
-  ![Top 10 Cuisines](top_10_cuisines.png)  
+   ![Online Order Rating](online_order_rating.png)
      
 4. **Average cost vs rating for Bengaluru restaurants**  
    The graphical data shows the average cost for 2 people in Bengaluru restaurants. The data shows that most of the customers who have spent less than Rs.1000 have rated the restaurants 3.5 and 4.0. This means that people don't need to spend a huge amount of money for visiting good-decent restaurants in Bengaluru, also it's not necessary to have a better experience by spending more money which can be afforded at half the price.  
