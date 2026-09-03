@@ -27,8 +27,8 @@ The sections below will explain additional details on the technologies and files
 
 ## Problem Statement  
 
-Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis.
-Using the dataset I will showcase how null data points are removed, important insights about the food ordered from restaurants and how it affects the diners expenditure and experience.
+Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis. 
+Using the dataset I will showcase how null data points are removed, important insights about the food ordered from restaurants and how it affects the diner's expenditure and experience.
 
 ## Dataset Used 
 
