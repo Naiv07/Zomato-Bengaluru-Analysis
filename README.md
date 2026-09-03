@@ -42,9 +42,12 @@ More info about the dataset can be found in the following links:
 
 The following technologies are used to build this project:
 
-* Language: Python  
-* Extraction: Kaggle, Microsoft Excel  
-* Notations: Notepad
+- **Language:** Python
+- **Libraries:** Pandas, Matplotlib
+- **Environment:** Jupyter Notebook / VS Code
+- **Dashboard:** Microsoft Excel (AVERAGEIF, COUNTIF, FILTER, UNIQUE, SORT, Pivot Tables, Data Validation)
+- **Data Source:** Kaggle
+- **Version Control:** Git & GitHub
 
 ## Data Cleaning 
 
@@ -85,6 +88,16 @@ After completing the above steps I created graphs for and generated observations
    This data points out a contradiction between the top cuisines ordered and the most preferred cuisines in Bengaluru. Continental being the highest with an average rating of more than 3.5 \- 4.0, followed by Cafe with 3.5 and above, Desserts with slightly more than 3.5, Street Food, North Indian and Chinese cuisine with an average of 3.5, while Fast Food and Biryani having less than 3.5. This reveals a clear inverse relationship between cuisine popularity and quality rating of Bengaluru.  
 
 	![Cost vs Rating](cost_vs_rating_for_2_people.png)
+
+##  Excel Dashboard
+Built an interactive Excel dashboard with:
+- Dynamic area selector with **data validation dropdown**
+- Quick Summary metrics — Total Restaurants, Avg Rating, Avg Cost, Online Ordering %
+- Top 10 cuisine breakdown with Average Cost and Average Rating
+- Pivot table showing Top 10 restaurants per area by average rating
+
+![Dashboard](Screenshot%202026-09-03%20160637.png)
+![Pivot Table](Screenshot%202026-09-03%20163430.png)
 
 ##  Suggestions & Business Recommendations
 
