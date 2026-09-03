@@ -2,8 +2,6 @@
 
 # Objective 
 
-Problem: Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis.
-
 In this project, I have analyzed the data for online food orders that consists various stages:
     
 1. Extracted dataset of Zomato to observe which areas are suitable for opening new restaurants and their favourable cuisines.
@@ -22,11 +20,13 @@ The sections below will explain additional details on the technologies and files
 * [Dataset Used](#dataset-used)  
 * [Tools Used](#tools-used)  
 * [Data Cleaning](#data-cleaning)  
-* [Key Findings](#key-findings)  
+* [Key Findings](#key-findings)
+* [Suggestions & Business Recommendations](#Suggestions-&-Business-Recommendations)
 * [Limitations](#limitations)
 
 ## Problem Statement  
 
+Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis.
 Using the dataset I will showcase how null data points are removed, important insights about the food ordered from restaurants and how it affects the diners expenditure and experience.
 
 ## Dataset Used 
