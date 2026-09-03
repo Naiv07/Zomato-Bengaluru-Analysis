@@ -21,6 +21,7 @@ The sections below will explain additional details on the technologies and files
 * [Tools Used](#tools-used)  
 * [Data Cleaning](#data-cleaning)  
 * [Key Findings](#key-findings)
+* [Excel Dashboard](#excel-dashboard)
 * [Suggestions & Business Recommendations](#suggestions--business-recommendations)
 * [Limitations](#limitations)
 
