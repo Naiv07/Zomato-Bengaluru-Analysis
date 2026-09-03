@@ -90,13 +90,13 @@ After completing the above steps I created graphs for and generated observations
 
 # 💡 Suggestions & Business Recommendations
 
-1. **Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
+1. Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
 
-2. **Connecting existing restaurants to online ordering platforms would generate increase in revenue and better visibility/
+2. Connecting existing restaurants to online ordering platforms would generate increase in revenue and better visibility/
 
-3. **Customers are highly inclined towards quality rather than premium pricing.
+3. Customers are highly inclined towards quality rather than premium pricing.
 
-4. **Data shows customers prefer quality over popularity in terms of ratings i.e. lower popularity outlets with better quality food is preferred more by customers.  
+4. Data shows customers prefer quality over popularity in terms of ratings i.e. lower popularity outlets with better quality food is preferred more by customers.  
 
 
 ## Limitations
