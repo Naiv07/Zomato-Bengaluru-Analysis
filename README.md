@@ -86,7 +86,7 @@ After completing the above steps I created graphs for and generated observations
 
 	![Cost vs Rating](cost_vs_rating_for_2_people.png)
 
-# 💡 Suggestions & Business Recommendations
+## 💡 Suggestions & Business Recommendations
 
 1. Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
 
