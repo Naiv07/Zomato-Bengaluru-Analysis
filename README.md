@@ -1,7 +1,5 @@
 # 🍽️Zomato Bengaluru Restaurant Analysis 
 
-# ---
-
 # Objective 
 
 Problem: Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis.
