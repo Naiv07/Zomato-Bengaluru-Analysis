@@ -4,9 +4,11 @@
 
 # Objective 
 
-In this project, I have analyzed the data for online food orders that consists various stages:
+Problem: Business owners and investors are prioritizing location, cuisine and pricing decisions based on intuition rather than a clear analysis.
 
-1. Extracted the data from Kaggle datasets and loaded the data into a local directory for further analysis.  
+In this project, I have analyzed the data for online food orders that consists various stages:
+    
+1. Extracted dataset of Zomato to observe which areas are suitable for opening new restaurants and their favourable cuisines.
 2. Modeled the data into a presentable format using Python on VS Code.  
 3. Using cleaning methods, I removed inconsistent data points for cleaner execution.  
 4. Generated observations and graphs.  
@@ -85,7 +87,13 @@ After completing the above steps I created graphs for and generated observations
    This data points out a contradiction between the top cuisines ordered and the most preferred cuisines in Bengaluru. Continental being the highest with an average rating of more than 3.5 \- 4.0, followed by Cafe with 3.5 and above, Desserts with slightly more than 3.5, Street Food, North Indian and Chinese cuisine with an average of 3.5, while Fast Food and Biryani having less than 3.5. This reveals a clear inverse relationship between cuisine popularity and quality rating of Bengaluru.  
 
 	![Cost vs Rating](cost_vs_rating_for_2_people.png)
-  
+
+# Suggestions
+
+	1. Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
+	2. Connecting existing restaurants to online ordering platforms would generate increase in revenue and better visibility/
+	3. Customers are highly inclined towards quality rather than premium pricing.
+	4. Data shows customers prefer quality over popularity in terms of ratings i.e. lower popularity outlets with better quality food is preferred more by customers.  
    
 
 ## Limitations
