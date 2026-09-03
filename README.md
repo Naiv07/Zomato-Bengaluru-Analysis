@@ -97,6 +97,8 @@ Built an interactive Excel dashboard with:
 - Pivot table showing Top 10 restaurants per area by average rating
 
 ![Dashboard](Screenshot%202026-09-03%20160637.png)
+
+
 ![Pivot Table](Screenshot%202026-09-03%20163430.png)
 
 ##  Suggestions & Business Recommendations
