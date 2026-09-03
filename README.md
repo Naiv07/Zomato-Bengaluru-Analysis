@@ -57,7 +57,7 @@ Here’s the specific cleaning tasks that were performed:
 
 1. Removed redundant and unnecessary columns Unnamed: 0 and Unnamed: 0.1  
 2. Cleaned the columns rate (out of 5\)  and  avg cost (two people) where null entry existed. Dropped 68 rows with null ratings, filled 53 null cost values with the median (Rs.400).  
-3. Mean was taken in order to fill the average rating given by the customers, median was taken into consideration from the range of numbers as the average amount spent by the diners.
+3. Dropped 68 rows with null ratings as they represented less than 1% of the dataset.
 
 ![][image1]
 
@@ -82,12 +82,13 @@ After completing the above steps I created graphs for and generated observations
    The graphical data shows the average cost for 2 people in Bengaluru restaurants. The data shows that most of the customers who have spent less than Rs.1000 have rated the restaurants 3.5 and 4.0. This means that people don't need to spend a huge amount of money for visiting good-decent restaurants in Bengaluru, also it's not necessary to have a better experience by spending more money which can be afforded at half the price.  
    Therefore, no correlation was found between price and rating as customers rated restaurants under Rs.1000 with 4.5+ rating comparable to restaurants with Rs.3000-6000, indicating Bengaluru diners prioritize value and food quality over price.
    
-   ![Average Rating by Cuisine](avg_rating_of_cuisines.png)  
+   ![Cost vs Rating](cost_vs_rating_for_2_people.png)
      
 5. **Average rating of top cuisines ordered in Bengaluru**  
    This data points out a contradiction between the top cuisines ordered and the most preferred cuisines in Bengaluru. Continental being the highest with an average rating of more than 3.5 \- 4.0, followed by Cafe with 3.5 and above, Desserts with slightly more than 3.5, Street Food, North Indian and Chinese cuisine with an average of 3.5, while Fast Food and Biryani having less than 3.5. This reveals a clear inverse relationship between cuisine popularity and quality rating of Bengaluru.  
 
-	![Cost vs Rating](cost_vs_rating_for_2_people.png)
+	![Average Rating by Cuisine](avg_rating_of_cuisines.png)
+
 
 ##  Excel Dashboard
 Built an interactive Excel dashboard with:
@@ -100,6 +101,7 @@ Built an interactive Excel dashboard with:
 
 
 ![Pivot Table](Screenshot%202026-09-03%20163430.png)
+
 
 ##  Suggestions & Business Recommendations
 
