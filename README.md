@@ -90,7 +90,7 @@ After completing the above steps I created graphs for and generated observations
 
 1. Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
 
-2. Connecting existing restaurants to online ordering platforms would generate increase in revenue and better visibility/
+2. Connecting existing restaurants to online ordering platforms would generate increase in revenue and provide better visibility.
 
 3. Customers are highly inclined towards quality rather than premium pricing.
 
