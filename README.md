@@ -103,13 +103,13 @@ Built an interactive Excel dashboard with:
 
 ##  Suggestions & Business Recommendations
 
-1. Open Continental or Cafes' which is undersupplied relative to the demand and consistently high rated.
+1. **Open Continental or Cafes'** - These cuisines are undersupplied relative to the demand and consistently higher rated     	(3.79 avg) compared to saturated cuisines like North Indian (3.47 avg), representing a clear market opportunity.
 
-2. Connecting existing restaurants to online ordering platforms would generate increase in revenue and provide better visibility.
+2. **Integrate with online ordering platforms** - Connecting existing restaurants to online ordering platforms would 			provide better visibility. As per observation restaurants with ordering service have a higher average 3.55 vs 3.47 for 		those without.
 
-3. Customers are highly inclined towards quality rather than premium pricing.
+3. **Adopt competitive pricing over premium positioning** - Customers are highly inclined towards quality rather than 			premium pricing.
 
-4. Data shows customers prefer quality over popularity in terms of ratings i.e. lower popularity outlets with better quality food is preferred more by customers.  
+4. **Focus on quality over popularity** - Data shows customers prefer quality over popularity in terms of ratings i.e.			lower popularity outlets with better quality food is preferred more by customers.  
 
 
 ## Limitations
