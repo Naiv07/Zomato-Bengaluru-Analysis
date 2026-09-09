@@ -111,6 +111,11 @@ Built an interactive Power BI dashboard with:
 - Cuisine type breakdown by count and average rating
 - Cross-filtering between all visuals
 
+![Dashboard](Screenshot%2026-09-09%182017.png)
+
+![Dashboard](Screenshot%2026-09-09%181845.png)
+
+![Dashboard](Screenshot%2026-09-09%181838.png)
 
 ##  Suggestions & Business Recommendations
 
