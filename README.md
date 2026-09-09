@@ -47,7 +47,7 @@ The following technologies are used to build this project:
 - **Language:** Python
 - **Libraries:** Pandas, Matplotlib
 - **Environment:** Jupyter Notebook / VS Code
-- **Dashboard:** Microsoft Excel (AVERAGEIF, COUNTIF, FILTER, UNIQUE, SORT, Pivot Tables, Data Validation)
+- **Dashboard:** Microsoft Excel (AVERAGEIF, COUNTIF, FILTER, UNIQUE, SORT, Pivot Tables, Data Validation), Power BI (Power Query, Visuals, Slicers)
 - **Data Source:** Kaggle
 - **Version Control:** Git & GitHub
 
