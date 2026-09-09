@@ -22,6 +22,7 @@ The sections below will explain additional details on the technologies and files
 * [Data Cleaning](#data-cleaning)  
 * [Key Findings](#key-findings)
 * [Excel Dashboard](#excel-dashboard)
+* [Power BI Dashboard](#power-bi-dashboard)
 * [Suggestions & Business Recommendations](#suggestions--business-recommendations)
 * [Limitations](#limitations)
 
@@ -111,11 +112,11 @@ Built an interactive Power BI dashboard with:
 - Cuisine type breakdown by count and average rating
 - Cross-filtering between all visuals
 
-![Dashboard](Screenshot%2026-09-09%182017.png)
+![Power BI Dashboard](Screenshot%202026-09-09%20182017.png)
 
-![Dashboard](Screenshot%2026-09-09%181845.png)
+![Power BI Dashboard](Screenshot%202026-09-09%20181838.png)
 
-![Dashboard](Screenshot%2026-09-09%181838.png)
+![Power BI Dashboard](Screenshot%202026-09-09%20181845.png)
 
 ##  Suggestions & Business Recommendations
 
