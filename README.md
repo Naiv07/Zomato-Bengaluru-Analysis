@@ -103,6 +103,14 @@ Built an interactive Excel dashboard with:
 
 ![Pivot Table](Screenshot%202026-09-03%20163430.png)
 
+##  Power BI Dashboard
+Built an interactive Power BI dashboard with:
+- Dynamic area slicer — filters all visuals simultaneously
+- Top 10 areas by average rating
+- Online ordering vs average rating comparison  
+- Cuisine type breakdown by count and average rating
+- Cross-filtering between all visuals
+
 
 ##  Suggestions & Business Recommendations
 
