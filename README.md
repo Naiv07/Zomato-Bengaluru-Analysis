@@ -44,12 +44,10 @@ More info about the dataset can be found in the following links:
 
 The following technologies are used to build this project:
 
-- **Language:** Python
-- **Libraries:** Pandas, Matplotlib
-- **Environment:** Jupyter Notebook / VS Code
-- **Dashboard:** Microsoft Excel (AVERAGEIF, COUNTIF, FILTER, UNIQUE, SORT, Pivot Tables, Data Validation), Power BI (Power Query, Visuals, Slicers)
-- **Data Source:** Kaggle
-- **Version Control:** Git & GitHub
+- Language: Python, DAX (Power BI)
+- Libraries: Pandas, Matplotlib
+- Tools: Jupyter Notebook, Microsoft Excel, Power BI, Git & GitHub
+- Data Source: Kaggle
 
 ## Data Cleaning 
 
