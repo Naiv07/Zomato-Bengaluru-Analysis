@@ -1,5 +1,9 @@
 # 🍽️Zomato Bengaluru Restaurant Analysis 
 
+![Power BI Dashboard Preview](Screenshot%202026-09-09%20182017.png)
+
+*Preview of the Power BI dashboard. Full details are further down.*
+
 # Objective 
 
 In this project, I have analyzed Zomato restaurant listing data for Bengaluru in several stages:
