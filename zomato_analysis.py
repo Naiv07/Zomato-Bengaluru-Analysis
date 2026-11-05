@@ -32,6 +32,10 @@ print("\n")
 area_ratings = data.groupby('area')['rate (out of 5)'].mean().sort_values(ascending=False).head(10)
 print("\n",area_ratings)
 
+print('\n')
+r, p = pearsonr(data['rate (out of 5)'], data['avg cost (two people)'])
+print(f"r = {r:.2f}, p = {p:.4f}")
+
 plt.figure(figsize=(10, 6))
 area_ratings.plot(kind='barh', color='steelblue')
 plt.xlabel('Average Rating')
